@@ -10,7 +10,7 @@
   "geometry": null,
   "properties": {
     "created": "2025-05-05T10:50:07.411224+00:00",
-    "updated": "2025-05-05T10:50:07.411224+00:00",
+    "updated": "2025-05-08T11:05:13Z",
     "type": "workflow",
     "title": "DNBR Workflow Example",
     "description": "Demonstrate how to fetch satellite Sentinel-2 data to generate burn severity maps for the assessment of the areas affected by wildfires.",
@@ -42,18 +42,11 @@
       }
     ],
     "themes": [
-      {
-        "concepts": [
-          {
-            "id": "land"
-          }
-        ],
-        "scheme": "https://github.com/stac-extensions/osc#theme"
-      }
+      "atmosphere"
     ],
     "formats": [],
     "license": "proprietary",
-    "osc:project": "deep-earth-system-data-lab"
+    "osc:project": "3d-earth"
   },
   "linkTemplates": [],
   "links": [
