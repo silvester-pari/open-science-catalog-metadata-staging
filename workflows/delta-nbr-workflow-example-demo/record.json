@@ -10,7 +10,7 @@
   "geometry": null,
   "properties": {
     "created": "2025-05-05T10:50:07.411224+00:00",
-    "updated": "2025-05-05T10:50:07.411224+00:00",
+    "updated": "2025-05-08T06:32:26Z",
     "type": "workflow",
     "title": "DNBR Workflow Example",
     "description": "Demonstrate how to fetch satellite Sentinel-2 data to generate burn severity maps for the assessment of the areas affected by wildfires.",
