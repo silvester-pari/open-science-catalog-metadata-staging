@@ -1826,6 +1826,12 @@
       "href": "./example-experiment/collection.json",
       "type": "application/json",
       "title": "Example Experiment"
+    },
+    {
+      "rel": "child",
+      "href": "./test/collection.json",
+      "type": "application/json",
+      "title": "Test"
     }
   ],
   "updated": "2024-09-12T20:32:22.975110Z",
