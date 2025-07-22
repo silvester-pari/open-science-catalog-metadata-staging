@@ -48,6 +48,18 @@
       "href": "../../themes/solid-earth/catalog.json",
       "type": "application/json",
       "title": "Theme: Solid Earth"
+    },
+    {
+      "href": "../../workflows/polaris-workflow/record.json",
+      "rel": "related",
+      "type": "application/json",
+      "title": "Workflow: undefined"
+    },
+    {
+      "href": "../../workflows/worldcereal-workflow/record.json",
+      "rel": "related",
+      "type": "application/json",
+      "title": "Workflow: undefined"
     }
   ],
   "stac_extensions": [
@@ -122,7 +134,7 @@
       ]
     }
   ],
-  "updated": "2024-09-12T20:32:23.030110Z",
+  "updated": "2025-07-22T20:49:03Z",
   "title": "3D-EARTH",
   "extent": {
     "spatial": {
@@ -145,5 +157,9 @@
     }
   },
   "license": "proprietary",
-  "keywords": []
+  "keywords": [],
+  "osc:workflows": [
+    "polaris-workflow",
+    "worldcereal-workflow"
+  ]
 }
