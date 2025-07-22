@@ -98,12 +98,6 @@
       "type": "application/json",
       "title": "Git source repository",
       "href": "https://github.com/gtif-cerulean/cerulean-catalog.git"
-    },
-    {
-      "rel": "child",
-      "href": "../../projects/3d-earth/collection.json",
-      "type": "application/json",
-      "title": "3D-EARTH"
     }
   ]
 }
