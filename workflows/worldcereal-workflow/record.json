@@ -137,12 +137,6 @@
       "rel": "self",
       "href": "https://esa-earthcode.github.io/open-science-catalog-metadata/workflows/worldcereal-workflow/record.json",
       "type": "application/json"
-    },
-    {
-      "rel": "child",
-      "href": "../../projects/3d-earth/collection.json",
-      "type": "application/json",
-      "title": "3D-EARTH"
     }
   ]
 }
