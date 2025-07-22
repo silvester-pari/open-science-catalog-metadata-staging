@@ -98,6 +98,12 @@
       "type": "application/json",
       "title": "Git source repository",
       "href": "https://github.com/gtif-cerulean/cerulean-catalog.git"
+    },
+    {
+      "rel": "child",
+      "href": "../../projects/4d-antarctica/collection.json",
+      "type": "application/json",
+      "title": "4D-ANTARCTICA"
     }
   ]
 }
