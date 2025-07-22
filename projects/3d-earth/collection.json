@@ -50,16 +50,10 @@
       "title": "Theme: Solid Earth"
     },
     {
-      "href": "../../workflows/polaris-workflow/record.json",
+      "href": "../../workflows/esa-cci-permafrost/record.json",
       "rel": "related",
       "type": "application/json",
-      "title": "Workflow: undefined"
-    },
-    {
-      "href": "../../workflows/worldcereal-workflow/record.json",
-      "rel": "related",
-      "type": "application/json",
-      "title": "Workflow: undefined"
+      "title": "Workflow: ESA CCI permafrost"
     }
   ],
   "stac_extensions": [
@@ -134,7 +128,7 @@
       ]
     }
   ],
-  "updated": "2025-07-22T20:49:03Z",
+  "updated": "2025-07-22T20:52:58Z",
   "title": "3D-EARTH",
   "extent": {
     "spatial": {
@@ -159,7 +153,6 @@
   "license": "proprietary",
   "keywords": [],
   "osc:workflows": [
-    "polaris-workflow",
-    "worldcereal-workflow"
+    "esa-cci-permafrost"
   ]
 }
