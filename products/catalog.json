@@ -1826,6 +1826,12 @@
       "href": "./test/collection.json",
       "type": "application/json",
       "title": "Test"
+    },
+    {
+      "rel": "child",
+      "href": "./test-product/collection.json",
+      "type": "application/json",
+      "title": "Test Product"
     }
   ],
   "updated": "2024-09-12T20:32:22.975110Z",
