@@ -2,7 +2,7 @@
     "type": "Collection",
     "id": "sentinel3-ampli-ice-sheet-elevation",
     "stac_version": "1.0.0",
-    "description": "(Version 2) Ice sheet elevation estimated along the Sentinel-3 satellite track, as retrieved with the Altimeter data Modelling and Processing for Land Ice (AMPLI). The products cover Antarctica and Greenland.",
+    "description": "(Version 3) Ice sheet elevation estimated along the Sentinel-3 satellite track, as retrieved with the Altimeter data Modelling and Processing for Land Ice (AMPLI). The products cover Antarctica and Greenland.",
     "links": [
       {
         "rel": "root",
@@ -62,22 +62,10 @@
         "type": "application/json"
       },
       {
-        "rel": "latest-version",
-        "href": "collection.json",
-        "type": "application/json",
-        "title": "Latest version"
-      },
-      {
         "rel": "predecessor-version",
-        "href": "collection_v1.json",
+        "href": "collection_v2.json",
         "type": "application/json",
         "title": "Predecessor"
-      },
-      {
-        "rel": "successor-version",
-        "href": "collection_v3.json",
-        "type": "application/json",
-        "title": "Successor"
       }
     ],
     "stac_extensions": [
@@ -91,7 +79,7 @@
     "osc:region": "Antarctica and Greenland",
     "osc:type": "product",
     "created": "2025-04-04T00:00:00Z",
-    "version": "2",
+    "version": "3",
     "sci:doi": "https://doi.org/10.57780/s3d-83ad619",
     "cf:parameter": [
       {
