@@ -63,13 +63,13 @@
       },
       {
         "rel": "latest-version",
-        "href": "https://esa-earthcode.github.io/open-science-catalog-metadata/products/sentinel3-ampli-ice-sheet-elevation/collection_v2.json",
+        "href": "collection_v2.json",
         "type": "application/json",
         "title": "Latest version"
       },
       {
         "rel": "predecessor",
-        "href": "https://esa-earthcode.github.io/open-science-catalog-metadata/products/sentinel3-ampli-ice-sheet-elevation/collection_v1.json",
+        "href": "collection_v1.json",
         "type": "application/json",
         "title": "Predecessor"
       }
