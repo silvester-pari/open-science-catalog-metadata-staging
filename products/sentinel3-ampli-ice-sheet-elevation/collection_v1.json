@@ -68,7 +68,7 @@
         "title": "Latest version"
       },
       {
-        "rel": "successor",
+        "rel": "successor-version",
         "href": "collection_v2.json",
         "type": "application/json",
         "title": "Successor"

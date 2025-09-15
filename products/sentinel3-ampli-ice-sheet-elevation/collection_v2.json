@@ -68,7 +68,7 @@
         "title": "Latest version"
       },
       {
-        "rel": "predecessor",
+        "rel": "predecessor-version",
         "href": "collection_v1.json",
         "type": "application/json",
         "title": "Predecessor"
