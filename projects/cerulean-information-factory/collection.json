@@ -87,7 +87,9 @@
           "value": "zaynab.guerraou@esa.int"
         }
       ],
-      "roles": []
+      "roles": [
+        "technical_officer"
+      ]
     },
     {
       "name": "David Arthurs",
