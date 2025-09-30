@@ -1,6 +1,6 @@
 {
   "type": "Collection",
-  "id": "polaris",
+  "id": "cerulean-information-factory",
   "stac_version": "1.0.0",
   "description": "Cerulean Information Factory (CIF) is an ESA project working on serveral workflows in the polar region like the Polarwarp or the Polar Operational Limit Assessment Risk Index System (POLARIS) ones.",
   "links": [
@@ -29,7 +29,7 @@
     },
     {
       "rel": "self",
-      "href": "https://esa-earthcode.github.io/open-science-catalog-metadata/projects/polaris/collection.json",
+      "href": "https://esa-earthcode.github.io/open-science-catalog-metadata/projects/cerulean-information-factory/collection.json",
       "type": "application/json"
     },
     {
