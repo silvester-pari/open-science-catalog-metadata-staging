@@ -23,9 +23,9 @@
     },
     {
       "rel": "related",
-      "href": "../../projects/polaris/collection.json",
+      "href": "../../projects/cerulean-information-factory/collection.json",
       "type": "application/json",
-      "title": "Project: POLARIS"
+      "title": "Project: Cerulean Information Factory"
     },
     {
       "rel": "related",
@@ -56,7 +56,7 @@
     "https://stac-extensions.github.io/themes/v1.0.0/schema.json",
     "https://stac-extensions.github.io/cf/v0.2.0/schema.json"
   ],
-  "osc:project": "polaris",
+  "osc:project": "cerulean-information-factory",
   "osc:experiment": "polaris-experiment",
   "osc:status": "ongoing",
   "osc:region": "Global",

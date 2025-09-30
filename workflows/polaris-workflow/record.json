@@ -48,7 +48,7 @@
       }
     ],
     "license": "CC-BY-SA-4.0",
-    "osc:project": "polaris"
+    "osc:project": "cerulean-information-factory"
   },
   "linkTemplates": [],
   "links": [
@@ -71,9 +71,9 @@
     },
     {
       "rel": "related",
-      "href": "../../projects/polaris/collection.json",
+      "href": "../../projects/cerulean-information-factory/collection.json",
       "type": "application/json",
-      "title": "Project: POLARIS"
+      "title": "Project: Cerulean Information Factory"
     },
     {
       "rel": "child",
