@@ -5,6 +5,7 @@
   "properties": {
     "title": "Waterbodies",
     "created": "2025-10-03T09:20:36Z",
-    "osc:project": "ospd"
+    "osc:project": "ospd",
+    "description": "Waterbodies workflow"
   }
 }
