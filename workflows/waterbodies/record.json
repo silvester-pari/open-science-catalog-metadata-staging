@@ -6,6 +6,32 @@
     "title": "Waterbodies",
     "created": "2025-10-03T09:20:36Z",
     "osc:project": "ospd",
-    "description": "Waterbodies workflow"
+    "description": "Waterbodies workflow",
+    "type": "dataset",
+    "resourceLanguages": [],
+    "externalIds": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "formats": [
+      {
+        "name": ""
+      }
+    ],
+    "contacts": [
+      {
+        "name": "Garin Smith",
+        "organization": "Telespazio UK LTD"
+      }
+    ],
+    "keywords": [],
+    "language": {
+      "code": ""
+    },
+    "languages": []
   }
 }
