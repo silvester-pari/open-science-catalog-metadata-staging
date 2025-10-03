@@ -11,10 +11,10 @@
     "resourceLanguages": [],
     "externalIds": [
       {
-        "value": ""
+        "value": "OGC Application Package"
       },
       {
-        "value": ""
+        "value": "https://raw.githubusercontent.com/tjellicoe-tpzuk/eo-workflow-examples/refs/heads/main/water-bodies/water-bodies.cwl"
       }
     ],
     "formats": [
