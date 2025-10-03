@@ -1,0 +1,9 @@
+{
+  "id": "waterbodies",
+  "type": "Feature",
+  "geometry": null,
+  "properties": {
+    "title": "Waterbodies",
+    "created": "2025-10-03T09:20:36Z"
+  }
+}
