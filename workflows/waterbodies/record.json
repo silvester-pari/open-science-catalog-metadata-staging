@@ -1,0 +1,37 @@
+{
+  "id": "waterbodies",
+  "type": "Feature",
+  "geometry": null,
+  "properties": {
+    "title": "Waterbodies",
+    "created": "2025-10-03T09:20:36Z",
+    "osc:project": "ospd",
+    "description": "Waterbodies workflow",
+    "type": "dataset",
+    "resourceLanguages": [],
+    "externalIds": [],
+    "formats": [],
+    "contacts": [
+      {
+        "name": "Garin Smith",
+        "organization": "Telespazio UK LTD"
+      }
+    ],
+    "keywords": [],
+    "language": {
+      "code": ""
+    },
+    "languages": []
+  },
+  "links": [
+    {
+      "href": "https://raw.githubusercontent.com/tjellicoe-tpzuk/eo-workflow-examples/refs/heads/main/water-bodies/water-bodies.cwl",
+      "rel": "application",
+      "type": "application/clw+yaml",
+      "hreflang": "",
+      "title": "OGC Application Package"
+    }
+  ],
+  "conformsTo": [],
+  "linkTemplates": []
+}

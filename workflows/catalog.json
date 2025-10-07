@@ -62,6 +62,12 @@
       "href": "./polarwarp/record.json",
       "type": "application/json",
       "title": "Polarwarp"
+    },
+    {
+      "rel": "item",
+      "href": "./waterbodies/record.json",
+      "type": "application/json",
+      "title": "Waterbodies"
     }
   ],
   "updated": "2025-02-19T23:00:00.000000Z",
