@@ -30,6 +30,18 @@
   },
   "links": [
     {
+      "rel": "root",
+      "href": "../../catalog.json",
+      "type": "application/json",
+      "title": "Open Science Catalog"
+    },
+    {
+      "rel": "parent",
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "Products"
+    },
+    {
       "href": "../../projects/cerulean-information-factory/collection.json",
       "rel": "related",
       "type": "application/json",
@@ -49,6 +61,10 @@
       "href": "https://github.com/gtif-cerulean/polarwarp",
       "rel": "via"
     }
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/osc/v1.0.0/schema.json",
+    "https://stac-extensions.github.io/themes/v1.0.0/schema.json"
   ],
   "osc:project": "cerulean-information-factory",
   "themes": [
