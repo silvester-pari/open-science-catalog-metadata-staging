@@ -1,5 +1,6 @@
 {
     "type": "Feature",
+    "title": "Polarwarp S1A_EW_GRDM_20250225T080553",
     "stac_version": "1.0.0",
     "id": "polarwarp_forecast_S1A_EW_GRDM_20250225T080553",
     "collection": "polarwarp",
