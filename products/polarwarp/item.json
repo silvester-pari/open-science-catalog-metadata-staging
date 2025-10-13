@@ -1,6 +1,8 @@
 {
     "type": "Feature",
     "title": "Polarwarp S1A_EW_GRDM_20250225T080553",
+    "license": "various",
+    "description": "Results of Polarwarp algorithm for S1A_EW_GRDM_20250225T080553",
     "stac_version": "1.0.0",
     "id": "polarwarp_forecast_S1A_EW_GRDM_20250225T080553",
     "collection": "polarwarp",
@@ -13,6 +15,26 @@
         -22.79180276016988,
         68.25650236696812
     ],
+    "extent": {
+        "spatial": {
+            "bbox": [
+                [
+                    -0.0018099989187332413,
+                    0.00043814539682784925,
+                    0.001347252506956414,
+                    0.0007574196581714432
+                ]
+            ]
+        },
+        "temporal": {
+            "interval": [
+                [
+                    "2025-02-25T00:00:00Z",
+                    null
+                ]
+            ]
+        }
+    },
     "geometry": {
         "type": "Polygon",
         "coordinates": [
