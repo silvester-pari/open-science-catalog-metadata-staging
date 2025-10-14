@@ -103,6 +103,12 @@
       "title": "Theme: Oceans"
     },
     {
+      "rel": "child",
+      "href": "../../experiments/polarwarp/record.json",
+      "type": "application/json",
+      "title": "Polarwarp"
+    },
+    {
       "rel": "vcs",
       "title": "Git source repository",
       "href": "https://github.com/gtif-cerulean/polarwarp.git",

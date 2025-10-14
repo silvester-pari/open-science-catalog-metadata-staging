@@ -54,6 +54,12 @@
       "title": "Theme: Cryosphere"
     },
     {
+      "rel": "related",
+      "href": "../../experiments/polarwarp/record.json",
+      "type": "application/json",
+      "title": "Experiment: Polarwarp"
+    },
+    {
       "href": "./item.json",
       "rel": "item"
     },

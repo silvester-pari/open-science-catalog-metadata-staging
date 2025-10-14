@@ -55,6 +55,12 @@
       "href": "../../products/polarwarp/collection.json",
       "type": "application/json",
       "title": "Polarwarp"
+    },
+    {
+      "rel": "related",
+      "href": "../../workflows/polarwarp/record.json",
+      "type": "application/json",
+      "title": "Workflow: Polarwarp"
     }
   ],
   "stac_extensions": [
