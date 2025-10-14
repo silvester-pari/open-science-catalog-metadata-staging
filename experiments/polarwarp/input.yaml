@@ -1,5 +1,5 @@
 $comment: >-
-  This file should contain information about the input parameters of the experiment in the future...
+  Lat and Lon are actually not Latitude and Longitude but coordinates in arctic projection (EPSG:3413)
 parameters:
   lon_min: 796454.0390764615
   lat_min: -2364879.127844905
