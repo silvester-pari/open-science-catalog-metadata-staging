@@ -12,7 +12,7 @@
     },
     {
       "rel": "item",
-      "href": "./polaris-experiment/record.json",
+      "href": "./polaris/record.json",
       "type": "application/json",
       "title": "POLARIS"
     },

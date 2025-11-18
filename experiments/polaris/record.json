@@ -1,5 +1,5 @@
 {
-  "id": "polaris-experiment",
+  "id": "polaris",
   "type": "Feature",
   "conformsTo": [
     "http://www.opengis.net/spec/ogcapi-records-1/1.0/req/record-core"
@@ -48,7 +48,7 @@
       }
     ],
     "license": "CC-BY-SA-4.0",
-    "osc:workflow": "polaris-workflow",
+    "osc:workflow": "polaris",
     "version": "2"
   },
   "linkTemplates": [],
@@ -79,7 +79,7 @@
     },
     {
       "rel": "related",
-      "href": "../../workflows/polaris-workflow/record.json",
+      "href": "../../workflows/polaris/record.json",
       "type": "application/json",
       "title": "Workflow: POLARIS"
     },
@@ -97,7 +97,7 @@
     },
     {
       "rel": "self",
-      "href": "https://esa-earthcode.github.io/open-science-catalog-metadata/experiments/polaris-experiment/item.json",
+      "href": "https://esa-earthcode.github.io/open-science-catalog-metadata/experiments/polaris/record.json",
       "type": "application/json"
     }
   ]

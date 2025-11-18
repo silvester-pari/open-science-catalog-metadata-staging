@@ -34,7 +34,7 @@
     },
     {
       "rel": "related",
-      "href": "../../workflows/polaris-workflow/record.json",
+      "href": "../../workflows/polaris/record.json",
       "type": "application/json",
       "title": "Workflow: POLARIS"
     },
@@ -70,7 +70,7 @@
   ],
   "osc:status": "ongoing",
   "osc:workflows": [
-    "polaris-workflow"
+    "polaris"
   ],
   "themes": [
     {
