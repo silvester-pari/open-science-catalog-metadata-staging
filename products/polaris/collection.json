@@ -41,7 +41,7 @@
     },
     {
       "rel": "related",
-      "href": "../../experiments/polaris-experiment/record.json",
+      "href": "../../experiments/polaris/record.json",
       "type": "application/json",
       "title": "Experiment: POLARIS"
     },
@@ -49,12 +49,6 @@
       "rel": "self",
       "href": "https://esa-earthcode.github.io/open-science-catalog-metadata/products/polaris/collection.json",
       "type": "application/json"
-    },
-    {
-      "rel": "related",
-      "href": "../../experiments/polaris-experiment/record.json",
-      "type": "application/json",
-      "title": "Experiment: Polarwarp"
     },
     {
       "href": "./item.json",
