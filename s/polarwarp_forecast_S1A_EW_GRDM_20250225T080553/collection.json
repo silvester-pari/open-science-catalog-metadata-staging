@@ -70,8 +70,14 @@
     },
     {
       "rel": "parent",
-      "href": "./collection.json",
-      "type": "application/json"
+      "href": "../catalog.json",
+      "type": "application/json",
+      "title": "s"
+    },
+    {
+      "rel": "via",
+      "href": "https://eoresults.esa.int/",
+      "title": "Access"
     }
   ],
   "assets": {
@@ -117,5 +123,9 @@
         "data"
       ]
     }
-  }
+  },
+  "stac_extensions": [
+    "https://stac-extensions.github.io/osc/v1.0.0/schema.json",
+    "https://stac-extensions.github.io/themes/v1.0.0/schema.json"
+  ]
 }
